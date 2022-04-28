@@ -3,7 +3,7 @@
 I'm a Full-Stack Software Engineer currently living in Eugene, Oregon. When I'm not coding, you'll usually find me in my room reading a book, or somewhere in the mountains.
 
 <a target="_blank" href="https://www.linkedin.com/in/jonevanmoore/">
-  <img align="left" alt="Abhishek's LinkedIN" width="100px" src="/linkedin-white.jpeg" />
+  <img align="left" alt="Abhishek's LinkedIN" width="100px" src="/linked-in-blue.jpg" />
 </a>
 
 <br>
