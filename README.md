@@ -5,7 +5,7 @@ I'm a Full-Stack Software Engineer currently living in Eugene, Oregon. When I'm 
 <a href="https://www.linkedin.com/in/jonevanmoore/">
   <img align="left" alt="Abhishek's LinkedIN" width="100px" src="/linked_in.jpeg" />
 </a>
-
+<br>
 <p>Used Technologies:</p>
 <p>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" style="width:50px;" />
