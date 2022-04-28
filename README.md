@@ -1,4 +1,13 @@
-### Hi there 👋
+### My name is Jon Moore!
+
+I'm a Full-Stack Software Engineer currently living in Eugene, Oregon. When I'm not coding, you'll usually find me in my room reading a book, or somewhere in the mountains.
+
+[LinkedIn](https://www.linkedin.com/in/jonevanmoore/)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonevanmoore&hide=stars&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/jonevanmoore/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonevanmoore&layout=compact&theme=gruvbox)](https://github.com/jonevanmoore/github-readme-stats)
+
 
 <!--
 **jonevanmoore/jonevanmoore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
