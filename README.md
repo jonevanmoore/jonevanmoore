@@ -1,5 +1,3 @@
-### My name is Jon Moore!
-
 I'm a Full-Stack Software Engineer currently living in Eugene, Oregon. I began coding at the beginning of 2020 and haven't slowed down yet. When I'm not programming, you will usually find me in my room reading a book. If I'm not there, then I am most definitely somewhere lost in the mountains. Spending time with friends/family, being out in nature and learning new things are the values I cherish most in this short life.
 
 <a target="_blank" href="https://www.linkedin.com/in/jonevanmoore/">
