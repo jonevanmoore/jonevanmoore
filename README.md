@@ -9,7 +9,7 @@ I'm a Full-Stack Software Engineer currently living in Eugene, Oregon. I began c
 <br>
 <br>
 
-<a target="_blank" href="[jonevanmoore.com](https://jonevanmoore.com/)">My Portfolio</a>
+<a target="_blank" href="https://jonevanmoore.com/">My Portfolio</a>
 
 <br>
 <br>
