@@ -17,6 +17,7 @@ I'm a Full-Stack Software Engineer currently living in Eugene, Oregon. I began c
 <p>Used Technologies:</p>
 <p>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" style="width:50px;" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" style="width:50px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" style="width:50px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" style="width:50px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" style="width:50px;" />
@@ -36,18 +37,3 @@ I'm a Full-Stack Software Engineer currently living in Eugene, Oregon. I began c
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonevanmoore&hide=stars&count_private=true&show_icons=true&theme=algolia)](https://github.com/jonevanmoore/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonevanmoore&layout=compact&theme=algolia)](https://github.com/jonevanmoore/github-readme-stats)
-
-<!--
-**jonevanmoore/jonevanmoore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
