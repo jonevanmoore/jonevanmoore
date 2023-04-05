@@ -11,7 +11,6 @@
 
 <br>
 <br>
-
 <p>Used Technologies:</p>
 <p>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" style="width:50px;" />
