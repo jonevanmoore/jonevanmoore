@@ -31,6 +31,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" style="width:50px;" />
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonevanmoore&hide=stars&count_private=true&show_icons=true&theme=algolia)](https://github.com/jonevanmoore/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonevanmoore&layout=compact&theme=algolia)](https://github.com/jonevanmoore/github-readme-stats)
